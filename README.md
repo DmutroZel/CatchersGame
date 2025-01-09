@@ -2,7 +2,8 @@
 
 <img src="./image.png" alt="">
 
-Management: WASD, arrows 
+Management: WASD, arrows
+<br>
  HTML
  CSS
  JavaScript
